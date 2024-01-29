@@ -32,7 +32,7 @@ saque_acumulado = 0
 #SISTEMA BANCARIO
 
 ##Autenticacao
-while (login != 'ppbn') and (senha != 'ppbn890'):
+while (login != login_usuario) and (senha != senha_usuario):
     login = (input('Insira o seu login: '))
     senha = (input('Insira a sua senha: '))
 
