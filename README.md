@@ -29,6 +29,7 @@ praticar técnicas e conceitos aprendidos nas aulas.
 - Estruturas de repetição
 - Strings e fatiamento
 
+#### Informações adicionais
 - Login padrão: ppbn
 - Senha padrão: ppbn890
 
