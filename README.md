@@ -15,7 +15,7 @@ praticar técnicas e conceitos aprendidos nas aulas.
 
 ## Versões
 
-### Primeira versão
+### Primeira Versão
 
 #### Conhecimentos utilizados
 
@@ -33,3 +33,17 @@ praticar técnicas e conceitos aprendidos nas aulas.
 - Login padrão: ppbn
 - Senha padrão: ppbn890
 
+### Segunda Versão
+
+#### Conhecimentos utilizados
+
+- Todos os das versões anteriores
+- Listas
+- Tuplas
+- Conjuntos
+- Dicionários
+- Funções
+
+#### Informações adicionais
+- Para acessar o sistema primeiro crie o seu usuário e depois a sua conta bancária.
+- Guarde sua senha, ela será necessária para criar a sua conta bancária e logar nela depois.
